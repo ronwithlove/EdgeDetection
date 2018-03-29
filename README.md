@@ -3,11 +3,13 @@ Edge Detection
 原理
 ![](https://github.com/ronwithlove/EdgeDetection/blob/master/EdgeDetection/my%20method.jpg?raw=true)  
 
-首先检测水平方向不同的像素点
+首先比较水平方向不同的像素点
+
 ![](https://github.com/ronwithlove/EdgeDetection/blob/master/EdgeDetection/Horizontal.jpg)  
 
 
-然后垂直方向不同的像素点
+然后比较垂直方向不同的像素点
+
 ![](https://github.com/ronwithlove/EdgeDetection/blob/master/EdgeDetection/Vertical.jpg)  
 
 
